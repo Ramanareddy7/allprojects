@@ -1,0 +1,16 @@
+C:\Users\RamanaReddy\source\repos\Demos\Demos\bin\Debug\net6.0\Demos.exe
+C:\Users\RamanaReddy\source\repos\Demos\Demos\bin\Debug\net6.0\Demos.deps.json
+C:\Users\RamanaReddy\source\repos\Demos\Demos\bin\Debug\net6.0\Demos.runtimeconfig.json
+C:\Users\RamanaReddy\source\repos\Demos\Demos\bin\Debug\net6.0\Demos.dll
+C:\Users\RamanaReddy\source\repos\Demos\Demos\bin\Debug\net6.0\ref\Demos.dll
+C:\Users\RamanaReddy\source\repos\Demos\Demos\bin\Debug\net6.0\Demos.pdb
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\Demos.GlobalUsings.g.cs
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\Demos.dll
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\ref\Demos.dll
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\Demos.pdb
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\Demos.genruntimeconfig.cache
+C:\Users\RamanaReddy\source\repos\Demos\Demos\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
